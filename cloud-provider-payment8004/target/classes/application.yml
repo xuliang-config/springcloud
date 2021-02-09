@@ -1,0 +1,12 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: cloud-provider-payment-8004
+  devtools:
+    restart:
+      poll-interval: 3000ms
+      quiet-period: 2999ms
+  cloud:
+    zookeeper:
+      connect-string: 39.97.190.43:2181

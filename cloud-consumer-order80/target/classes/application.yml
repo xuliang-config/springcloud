@@ -2,7 +2,22 @@ server:
   port: 80
 
 spring:
+  application:
+    name: cloud-order-service
   devtools:
     restart:
       poll-interval: 3000ms
       quiet-period: 2999ms
+
+eureka:
+  instance:
+    instance-id: order80   #主机名
+    prefer-ip-address: true  #访问路径可以显示IP地址
+  client:
+    register-with-eureka: true  #true表示把自己注册进eurekaServer，默认为true
+    fetch-registry: true   #true表示从eurekaServer抓取已有的注册信息，默认为true.单节点无所谓，集群必须设置为true才能配合rebbon使用负载均衡
+    service-url:
+      #设置与Eureka Server交互的地址查询服务和注册服务都需要依赖这个地址
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/
+
+

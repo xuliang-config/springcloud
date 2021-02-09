@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fa1e57d-299b-4f16-affe-59928b644a20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/conf/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/conf/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/java/com/atguigu/springcloud/entities/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/conf/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/conf/ApplicationContextConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/entities/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-consumer-order80/target/classes/com/atguigu/springcloud/entities/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/entities/CommonResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/java/com/atguigu/springcloud/entities/Payment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/entities/CommonResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../cloud-privider-payment8001/target/classes/com/atguigu/springcloud/entities/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1o9CPXdIgc5wzZVGWylmdFd4tzz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/chain" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fa1e57d-299b-4f16-affe-59928b644a20" name="Default Changelist" comment="" />
+      <created>1612689395408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612689395408</updated>
+      <workItem from="1612689396773" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
