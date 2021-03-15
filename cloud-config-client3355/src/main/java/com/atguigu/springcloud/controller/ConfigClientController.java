@@ -12,8 +12,12 @@ public class ConfigClientController {
     @Value("${info.message}")
     public String infoMessage;
 
-    @GetMapping("/getInfo")
+    @Value("${info.flash}")
+    public String infoFlash;
+
+
+    @GetMapping("/getTest")
     public String getInfoMessage(){
-        return infoMessage;
+        return infoMessage +"/n" + infoFlash;
     }
 }

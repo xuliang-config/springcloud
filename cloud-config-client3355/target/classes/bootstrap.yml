@@ -16,10 +16,15 @@ spring:
       profile: dev    #读取后缀名称   上述上个综合，从 master 分支获取 test-dev.yml 配置文件
       uri: http://localhost:3344  #配置中心地址
       #    http://localhost:3344/msater/test-dev.yml
+  rabbitmq:
+    host: localhost   #rabbitmq地址
+    port: 5672  #rabbitmq端口
+    username: guest
+    password: guest
 
 #暴露监控端点
 management:
   endpoints:
-    web:
-      exposure:
-        include: "*"
+  web:
+    exposure:
+      include: "*"
