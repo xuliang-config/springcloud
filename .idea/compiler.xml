@@ -16,14 +16,14 @@
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-provider-payment8004" />
         <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-gateway-gatewau9527" />
         <module name="cloud-privider-payment8002" />
         <module name="cloud-providerconsul-payment" />
         <module name="cloud-privider-payment8001" />
         <module name="cloud_consumer-hystrix-dashboard9001" />
         <module name="cloud-providerconsul-payment8006" />
-        <module name="cloud-config-client3355" />
         <module name="cloud-consumer-feign-order80" />
-        <module name="cloud-gateway-gatewau9527" />
+        <module name="cloud-config-client3355" />
       </profile>
     </annotationProcessing>
   </component>
