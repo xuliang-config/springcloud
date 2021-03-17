@@ -15,6 +15,7 @@
         <module name="cloud-api-commons" />
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-provider-payment8004" />
+        <module name="cloud-stream-rabbitmq-consumer8803" />
         <module name="cloud-stream-rabbitmq-consumer8802" />
         <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-privider-payment8002" />

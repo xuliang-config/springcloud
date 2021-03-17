@@ -1,5 +1,5 @@
 server:
-  port: 8802
+  port: 8803
 
 spring:
   application:
@@ -32,5 +32,5 @@ eureka:
   instance:
     lease-renewal-interval-in-seconds: 2  #服务端发送心跳时间
     lease-expiration-duration-in-seconds: 5 #服务端等待时间
-    instance-id: receive-8802.com
+    instance-id: receive-8803.com
     prefer-ip-address: true
