@@ -1,0 +1,16 @@
+server:
+  port: 83
+
+spring:
+  application:
+    name: nacos-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+
+#此处配置值微服务名，在程序里引入，做到更好的解耦分离
+#是一种比较好的设计思想，和nacos配置无关
+server-url:
+  nacos-provider-name: http://nacos-provider
