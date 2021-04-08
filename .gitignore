@@ -8,7 +8,7 @@ bin-release/
 .settings/
 .iml
 .idea
-
+.class
 # Executables
 *.swf
 *.air
