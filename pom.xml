@@ -39,6 +39,9 @@
         <module>springcloudalibaba-sentinel-ribbonProvider9003</module>
         <module>springcloudalibaba-sentinel-ribbonProvider9004</module>
         <module>springcloudalibaba-sentinel-robbon-consumer84</module>
+        <module>springcloudalibaba-seata-A</module>
+        <module>springcloudalibaba-seata-B</module>
+        <module>springcloudalibaba-seata-C</module>
     </modules>
     <packaging>pom</packaging>
 

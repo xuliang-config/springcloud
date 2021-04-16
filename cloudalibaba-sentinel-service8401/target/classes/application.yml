@@ -13,9 +13,23 @@ spring:
         dashboard: localhost:8080
         #默认8191端口，假如被占用会自动从8719开始一次 +1 扫描，直至找到未被占用的端口
         port: 8719
+      datasource:
+        ds1:   #表示这个数据源的名字，估计可以配置多个数据源
+          nacos:  #数据源类型
+            server-addr: localhost:8848   #nacos地址
+            dataID: cloudalibaba-sentinel-service-consumer  #配置名，要和微服务名一直
+            groupId: DEFAULT_GROUP #组名，和 nacos处配置要对应
+            data-type: json #数据类型，设置为json
+            rule-type: flow #规则类型，此处是流控规则
+
 
 management:
   endpoints:
     web:
       exposure:
         include: '*' #被监控的内容需要暴露端口
+
+#激活Sentinel对Feign的支持
+feign:
+  sentinel:
+    enabled: true

@@ -23,12 +23,15 @@
         <module name="cloud-stream-rabbitmq-consumer8802" />
         <module name="cloud-config-client3355" />
         <module name="cloudalibaba-config-nacos-client3377" />
+        <module name="springcloudalibaba-seata-C" />
+        <module name="springcloudalibaba-seata-B" />
         <module name="springcloudalibaba-sentinel-robbon-consumer84" />
         <module name="cloud-privider-hystrix-payment8001" />
         <module name="cloud-stream-rabbitmq-provider8801" />
         <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloud-eureka-server7002" />
         <module name="cloud-eureka-server7001" />
+        <module name="springcloudalibaba-seata-A" />
         <module name="cloud-consumer-feign-order80" />
         <module name="cloud_consumer-hystrix-dashboard9001" />
         <module name="cloud-consumer-order80" />
